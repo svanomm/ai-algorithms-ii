@@ -1,3 +1,5 @@
 homework-week-09/stack/*
 *.jpg
 .venv/*
+homework-week-12/data/*
+*.pyc
